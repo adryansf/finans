@@ -1,0 +1,19 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+header{
+	background: #ffc107;
+}
+
+.caixa{
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+@media (max-width: 575.98px) {
+	#titulo-site{
+		font-size: 40px;
+	}
+}
